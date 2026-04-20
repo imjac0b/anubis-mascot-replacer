@@ -1,4 +1,4 @@
-# Anubis Mascot Replacer
+# <img src="assets/icon.png" alt="Anubis Mascot Replacer icon" width="24" /> Anubis Mascot Replacer
 
 Browser extension for replacing the Anubis mascot images with custom images.
 
@@ -39,4 +39,3 @@ bun run build:firefox
 ## Credits
 
 The mascot images are from the Anubis project and were made by CELPHASE: https://bsky.app/profile/celphase.bsky.social
-
