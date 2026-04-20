@@ -2,7 +2,7 @@
   "name": "anubis-mascot-replacer",
   "description": "Replaces the mascot of Anubis with a custom one",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
