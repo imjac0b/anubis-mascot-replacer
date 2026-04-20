@@ -5,5 +5,7 @@ export default defineConfig({
   modules: ['@wxt-dev/module-react', '@wxt-dev/auto-icons'],
   manifest: {
     name: 'Anubis Mascot Replacer',
+    permissions: ['storage', 'declarativeNetRequest'],
+    host_permissions: ['<all_urls>'],
   },
 });
